@@ -1,5 +1,5 @@
 # Pythonista-iOS
-Repository consisting of Python scripts to be used with the Pythonista app on iOS
+Repository consisting of Python scripts to be used within the Pythonista app on iOS
 
 ## Scripts
    **Text Capture.py**  
